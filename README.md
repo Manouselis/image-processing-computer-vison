@@ -23,5 +23,5 @@ Subtasks:
 9. A rough assessment of the quality of the mesh is appreciated. How to quantify quality? Discuss your results.
 
 #### Notes
-1. This is an experimental application developed as part of the course "Image Processing & Computer Vision" project, that took place in Robotics Master of University of Twente in 2022.
+1. This is an experimental application developed as part of the course "Image Processing & Computer Vision" project, that took place in the Robotics Master of University of Twente in 2022.
 
